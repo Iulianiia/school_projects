@@ -1,3 +1,4 @@
 .vscode
 *.pdf
+venv
 flask_session
